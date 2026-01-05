@@ -1,6 +1,4 @@
-Here is a **clean, CRAN-style GitHub README.md** tailored specifically for your **dentomedical (v0.2.0)** package and its current function set. You can copy-paste this directly into **README.md** on GitHub.
 
----
 
 # dentomedical
 
